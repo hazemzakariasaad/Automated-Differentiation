@@ -24,12 +24,6 @@ To use the automated differentiation functionality:
 
 Please note that this implementation provides a basic framework for automated differentiation and can be extended or customized based on specific requirements and use cases.
 
-## License
-
-This project is released under the [MIT License](LICENSE).
-
-Feel free to modify, enhance, and use this code for your own applications.
-
 ## Acknowledgments
 
-- The implementation of automated differentiation in this project draws inspiration from concepts and techniques used in deep learning frameworks and computational graph libraries.
+- I would like to express my gratitude to my university and the professors who taught the concepts of automated differentiation during the lectures.
